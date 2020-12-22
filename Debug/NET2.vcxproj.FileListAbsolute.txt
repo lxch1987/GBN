@@ -1,0 +1,2 @@
+D:\VSprojects\NET2\Debug\NET2.exe
+D:\VSprojects\NET2\Debug\NET2.pdb
